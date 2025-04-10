@@ -4,10 +4,21 @@ import dadosIniciais from './data/dados_iniciais.json';
 import Footer from './components/Footer';
 import BannerMain from './components/BannerMain';
 import Carousel from './components/Carousel';
+import styled from 'styled-components';
+
+const AppWrapper = styled.div`
+  background: var(--grayDark);
+
+  padding-top: 94px;
+
+  @media (max-width: 800px) {
+    padding-top: 40px;
+  }
+`;
 
 function App() {
   return (
-    <div style={{background: "#141414"}}>
+    <AppWrapper>
       <Menu />
 
       <BannerMain
@@ -42,7 +53,7 @@ function App() {
       />      
 
       <Footer />
-    </div>
+    </AppWrapper>
   );
 }
 

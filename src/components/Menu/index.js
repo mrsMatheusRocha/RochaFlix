@@ -1,19 +1,19 @@
 import React from 'react';
 import Logo from '../../assets/images/rochaflix.png';
-import './Menu.css'
+import { LogoImage, MenuWrapper } from './styles';
 import Button from '../Button';
 
 function Menu() {
   return (
-    <nav className="Menu">
+    <MenuWrapper>
       <a href="/">
-        <img className="Logo" src={Logo} alt="Logo da RochaFlix"/>
+        <LogoImage src={Logo} alt="Logo da RochaFlix"/>
       </a>
 
-      <Button as="a" className="ButtonLink" href="/">
+      <Button as="a" href="/">
         Novo vídeo
       </Button>
-    </nav>
+    </MenuWrapper>
   )
 }
 
