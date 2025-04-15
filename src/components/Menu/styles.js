@@ -25,6 +25,10 @@ export const MenuWrapper = styled.nav`
   background: var(--black);
   border-bottom: 2px solid var(--primary);
 
+  body {
+    padding-top: var(--bodyPaddingTop);
+  }
+
   @media (max-width: 800px) {
     height: 40px;
     justify-content: center;
