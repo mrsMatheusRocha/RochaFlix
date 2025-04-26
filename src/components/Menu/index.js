@@ -1,8 +1,8 @@
-import React from 'react';
-import Logo from '../../assets/images/rochaflix.png';
-import { LogoImage, MenuWrapper } from './styles';
-import Button from '../Button';
-import { Link } from 'react-router-dom';
+import React from "react";
+import Logo from "../../assets/images/rochaflix.png";
+import { LogoImage, MenuWrapper } from "./styles";
+import Button from "../Button";
+import { Link } from "react-router-dom";
 
 function Menu() {
   return (

@@ -2,14 +2,15 @@ import React, { useState } from "react";
 import PageDefault from "../../../components/PageDefault";
 import { Link } from "react-router-dom";
 import FormField from "../../../components/FormField";
+import Button from "../../../components/Button";
 
 
 function CadastroCategoria() {
   
   const valoresIniciais = {
-    nome: '',
-    descricao: '',
-    cor: '',
+    nome: "",
+    descricao: "",
+    cor: "",
   }
   
   const [categorias, setCategorias] = useState([]);
@@ -24,7 +25,7 @@ function CadastroCategoria() {
 
   function handleChange(event) {
     setValue(
-      event.target.getAttribute('name'),
+      event.target.getAttribute("name"),
       event.target.value
     );
   }
@@ -64,9 +65,9 @@ function CadastroCategoria() {
           value={values.nome}
           onChange={handleChange}
         />
-        <button>
+        <Button>
           Cadastrar
-        </button>
+        </Button>
       </form>
 
       <ul>
