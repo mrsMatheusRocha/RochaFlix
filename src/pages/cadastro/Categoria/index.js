@@ -3,6 +3,7 @@ import PageDefault from "../../../components/PageDefault";
 import { Link } from "react-router-dom";
 import FormField from "../../../components/FormField";
 
+
 function CadastroCategoria() {
   
   const valoresIniciais = {
@@ -50,7 +51,7 @@ function CadastroCategoria() {
 
         <FormField
           label="Descrição"
-          input="textarea"
+          type="textarea"
           name="descricao"
           value={values.descricao}
           onChange={handleChange}
