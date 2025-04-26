@@ -1,0 +1,242 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "titulo": "Front End",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Formação de Front End na Alura",
+        "url": "https://www.alura.com.br/cursos-online-front-end"
+      }
+    },
+    {
+      "id": 2,
+      "titulo": "Futebol",
+      "cor": "red"
+    },
+    {
+      "id": 3,
+      "titulo": "História",
+      "cor": "#52221f"
+    },
+    {
+      "id": 4,
+      "titulo": "Filmes",
+      "cor": "orange"
+    },
+    {
+      "id": 5,
+      "titulo": "Games",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Formação de Jogos na Alura",
+        "url": "https://www.alura.com.br/formacao-jogos-unity"
+      }
+    },
+    {
+      "id": 6,
+      "titulo": "Séries",
+      "cor": "#6b5be2"
+    }
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "categoriaId": 1,
+      "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
+      "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+    },
+    {
+      "id": 2,
+      "categoriaId": 1,
+      "titulo": "SEO com React",
+      "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+    },
+    {
+      "id": 3,
+      "categoriaId": 1,
+      "titulo": "Componentização com VanillaJS #AluraMais",
+      "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+    },
+    {
+      "id": 4,
+      "categoriaId": 1,
+      "titulo": "Pare de chutar e aprenda a display: inline #01",
+      "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+    },
+    {
+      "id": 5,
+      "categoriaId": 1,
+      "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
+      "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+    },
+    {
+      "id": 6,
+      "categoriaId": 1,
+      "titulo": "Acessibilidade de site, v3 com Jon Kuperman",
+      "url": "https://www.youtube.com/watch?v=Q5tdDGg1RRw"
+    },
+    {
+      "id": 7,
+      "categoriaId": 1,
+      "titulo": "React: O minimo de base que você precisa saber para não sofrer começando com a ferramenta",
+      "url": "https://www.youtube.com/watch?v=4BxrxiMMjcA"
+    },
+    {
+      "id": 8,
+      "categoriaId": 1,
+      "titulo": "Base para aprender os frameworks",
+      "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+    },
+    {
+      "id": 9,
+      "categoriaId": 2,
+      "titulo": "RICARDO KAKÁ - Feet Don't Fail Me Now",
+      "url": "https://www.youtube.com/watch?v=lJ4le99zDDU"
+    },
+    {
+      "id": 10,
+      "categoriaId": 2,
+      "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
+      "url": "https://www.youtube.com/watch?v=igh2k2gkg7k"
+    },
+    {
+      "id": 11,
+      "categoriaId": 2,
+      "titulo": "ELE FEZ DE NOVO! UMA BESTA ENJAULADA - Cristiano Ronaldo Edit ",
+      "url": "https://www.youtube.com/watch?v=MDmcVLadrmY"
+    },
+    {
+      "id": 12,
+      "categoriaId": 2,
+      "titulo": "Antony in a Nutshell - Manchester United Moments",
+      "url": "https://www.youtube.com/watch?v=_mPDAQm58i8"
+    },
+    {
+      "id": 13,
+      "categoriaId": 2,
+      "titulo": "ROGÉRIO CENI // #PraSempreM1TO",
+      "url": "https://www.youtube.com/watch?v=QU3cSj3jjDw"
+    },
+    {
+      "id": 14,
+      "categoriaId": 3,
+      "titulo": "O fim do Egito antigo | Nerdologia",
+      "url": "https://www.youtube.com/watch?v=2p0HUCfBfAE"
+    },
+    {
+      "id": 15,
+      "categoriaId": 3,
+      "titulo": "A Revolução Russa e suas Consequências",
+      "url": "https://www.youtube.com/watch?v=r_1xj0Pyi-8"
+    },
+    {
+      "id": 16,
+      "categoriaId": 3,
+      "titulo": "O surgimento da história",
+      "url": "https://www.youtube.com/watch?v=Osx5jwS_xgg"
+    },
+    {
+      "id": 17,
+      "categoriaId": 3,
+      "titulo": "por que RUANDA INVADIU o CONGO?",
+      "url": "https://www.youtube.com/watch?v=24cWBcgV30k&t=570s"
+    },
+    {
+      "id": 18,
+      "categoriaId": 3,
+      "titulo": "Primeira Guerra Mundial - Nostalgia História",
+      "url": "https://www.youtube.com/watch?v=HNw027hhbbw"
+    },
+    {
+      "id": 19,
+      "categoriaId": 4,
+      "titulo": "Darkest Hour",
+      "url": "https://www.youtube.com/watch?v=4pNOCzV5jG0"
+    },
+    {
+      "id": 20,
+      "categoriaId": 4,
+      "titulo": "Guardians of the Galaxy Vol. 3",
+      "url": "https://www.youtube.com/watch?v=u3V5KDHRQvk"
+    },
+    {
+      "id": 21,
+      "categoriaId": 4,
+      "titulo": "Spider-Man: Across the Spider-Verse - Official Trailer #2 (HD)",
+      "url": "https://www.youtube.com/watch?v=shW9i6k8cB0"
+    },
+    {
+      "id": 22,
+      "categoriaId": 4,
+      "titulo": "Me Before You Official Trailer #1",
+      "url": "https://www.youtube.com/watch?v=Eh993__rOxA"
+    },
+    {
+      "id": 23,
+      "categoriaId": 4,
+      "titulo": "Fantastic Beasts and Where to Find Them - Teaser Trailer [HD]",
+      "url": "https://www.youtube.com/watch?v=ViuDsy7yb8M"
+    },
+    {
+      "id": 24,
+      "categoriaId": 5,
+      "titulo": "Nine Sols",
+      "url": "https://www.youtube.com/watch?v=evsOg5A2DtQ"
+    },
+    {
+      "id": 25,
+      "categoriaId": 5,
+      "titulo": "Assassin's Creed Mirage",
+      "url": "https://www.youtube.com/watch?v=IRNOoOYVn80"
+    },
+    {
+      "id": 26,
+      "categoriaId": 5,
+      "titulo": "Sleeping Dogs",
+      "url": "https://www.youtube.com/watch?v=XvESN76BUe4"
+    },
+    {
+      "id": 27,
+      "categoriaId": 5,
+      "titulo": "Assassin's Creed Shadows",
+      "url": "https://www.youtube.com/watch?v=_JzywR97gUs"
+    },
+    {
+      "id": 28,
+      "categoriaId": 5,
+      "titulo": "Mad Max",
+      "url": "https://www.youtube.com/watch?v=oVWUbmzOGe4"
+    },
+    {
+      "id": 29,
+      "categoriaId": 6,
+      "titulo": "Game Of Thrones - Season 1 - Trailer",
+      "url": "https://www.youtube.com/watch?v=bjqEWgDVPe0"
+    },
+    {
+      "id": 30,
+      "categoriaId": 6,
+      "titulo": "Loki | Temporada 2 | Trailer Oficial Dublado",
+      "url": "https://www.youtube.com/watch?v=wmlcMkj2H70"
+    },
+    {
+      "id": 31,
+      "categoriaId": 6,
+      "titulo": "Gen V - Temporada 1 | Trailer Final ",
+      "url": "https://www.youtube.com/watch?v=t8CDmXCKABE"
+    },
+    {
+      "id": 32,
+      "categoriaId": 6,
+      "titulo": "The Last Of Us - Temporada 2 | Trailer Dublado",
+      "url": "https://www.youtube.com/watch?v=0vB2lHQim3Q"
+    },
+    {
+      "id": 33,
+      "categoriaId": 6,
+      "titulo": "Arcane: Temporada 2 | Trailer oficial",
+      "url": "https://www.youtube.com/watch?v=Ft_QrPGXWqc"
+    }
+  ]
+}
