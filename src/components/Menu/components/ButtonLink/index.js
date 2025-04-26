@@ -1,3 +1,4 @@
+import PropTypes from "prop-types";
 import React from "react";
 
 function ButtonLink(props) {
@@ -7,5 +8,11 @@ function ButtonLink(props) {
     </a>
   )
 }
+
+ButtonLink.propTypes = {
+  children: PropTypes.string.isRequired,
+  href: PropTypes.string.isRequired,
+  className: PropTypes.string.isRequired,
+};
 
 export default ButtonLink;

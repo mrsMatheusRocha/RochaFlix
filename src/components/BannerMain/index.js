@@ -1,6 +1,7 @@
 import React from "react";
 import VideoIframeResponsive from "./components/VideoIframeResponsive";
 import { BannerMainContainer, ContentAreaContainer, WatchButton } from "./styles";
+import PropTypes from "prop-types";
 
 function getYouTubeId(youtubeURL) {
   return youtubeURL
@@ -43,3 +44,9 @@ export default function BannerMain({
     </BannerMainContainer>
   );
 }
+
+BannerMain.propTypes = {
+  url: PropTypes.string.isRequired,
+  videoTitle: PropTypes.string.isRequired,
+  videoDescription: PropTypes.string.isRequired,
+};
