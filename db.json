@@ -71,24 +71,6 @@
       "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
     },
     {
-      "id": 6,
-      "categoriaId": 1,
-      "titulo": "Acessibilidade de site, v3 com Jon Kuperman",
-      "url": "https://www.youtube.com/watch?v=Q5tdDGg1RRw"
-    },
-    {
-      "id": 7,
-      "categoriaId": 1,
-      "titulo": "React: O minimo de base que você precisa saber para não sofrer começando com a ferramenta",
-      "url": "https://www.youtube.com/watch?v=4BxrxiMMjcA"
-    },
-    {
-      "id": 8,
-      "categoriaId": 1,
-      "titulo": "Base para aprender os frameworks",
-      "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-    },
-    {
       "id": 9,
       "categoriaId": 2,
       "titulo": "RICARDO KAKÁ - Feet Don't Fail Me Now",
@@ -111,12 +93,6 @@
       "categoriaId": 2,
       "titulo": "Antony in a Nutshell - Manchester United Moments",
       "url": "https://www.youtube.com/watch?v=_mPDAQm58i8"
-    },
-    {
-      "id": 13,
-      "categoriaId": 2,
-      "titulo": "ROGÉRIO CENI // #PraSempreM1TO",
-      "url": "https://www.youtube.com/watch?v=QU3cSj3jjDw"
     },
     {
       "id": 14,
@@ -143,12 +119,6 @@
       "url": "https://www.youtube.com/watch?v=24cWBcgV30k&t=570s"
     },
     {
-      "id": 18,
-      "categoriaId": 3,
-      "titulo": "Primeira Guerra Mundial - Nostalgia História",
-      "url": "https://www.youtube.com/watch?v=HNw027hhbbw"
-    },
-    {
       "id": 19,
       "categoriaId": 4,
       "titulo": "Darkest Hour",
@@ -171,12 +141,6 @@
       "categoriaId": 4,
       "titulo": "Me Before You Official Trailer #1",
       "url": "https://www.youtube.com/watch?v=Eh993__rOxA"
-    },
-    {
-      "id": 23,
-      "categoriaId": 4,
-      "titulo": "Fantastic Beasts and Where to Find Them - Teaser Trailer [HD]",
-      "url": "https://www.youtube.com/watch?v=ViuDsy7yb8M"
     },
     {
       "id": 24,
@@ -203,12 +167,6 @@
       "url": "https://www.youtube.com/watch?v=_JzywR97gUs"
     },
     {
-      "id": 28,
-      "categoriaId": 5,
-      "titulo": "Mad Max",
-      "url": "https://www.youtube.com/watch?v=oVWUbmzOGe4"
-    },
-    {
       "id": 29,
       "categoriaId": 6,
       "titulo": "Game Of Thrones - Season 1 - Trailer",
@@ -231,12 +189,6 @@
       "categoriaId": 6,
       "titulo": "The Last Of Us - Temporada 2 | Trailer Dublado",
       "url": "https://www.youtube.com/watch?v=0vB2lHQim3Q"
-    },
-    {
-      "id": 33,
-      "categoriaId": 6,
-      "titulo": "Arcane: Temporada 2 | Trailer oficial",
-      "url": "https://www.youtube.com/watch?v=Ft_QrPGXWqc"
     }
   ]
 }
