@@ -28,19 +28,7 @@
         {
           "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
           "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
-        },
-        {
-          "titulo": "Acessibilidade de site, v3 com Jon Kuperman",
-          "url": "https://www.youtube.com/watch?v=Q5tdDGg1RRw"
-        },
-        {
-          "titulo": "React: O minimo de base que você precisa saber para não sofrer começando com a ferramenta",
-          "url": "https://www.youtube.com/watch?v=4BxrxiMMjcA"
-        },
-        {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
+        }     
       ]
     },
     {
@@ -62,10 +50,6 @@
         {
           "titulo": "Antony in a Nutshell - Manchester United Moments",
           "url": "https://www.youtube.com/watch?v=_mPDAQm58i8"
-        }, 
-        {
-          "titulo": "ROGÉRIO CENI // #PraSempreM1TO",
-          "url": "https://www.youtube.com/watch?v=QU3cSj3jjDw"
         }
       ]
     },
@@ -88,10 +72,6 @@
         {
           "titulo": "por que RUANDA INVADIU o CONGO?",
           "url": "https://www.youtube.com/watch?v=24cWBcgV30k&t=570s"
-        },
-        {
-          "titulo": "Primeira Guerra Mundial - Nostalgia História",
-          "url": "https://www.youtube.com/watch?v=HNw027hhbbw"
         }
       ]
     },
@@ -114,10 +94,6 @@
         {
           "titulo": "Me Before You Official Trailer #1",
           "url": "https://www.youtube.com/watch?v=Eh993__rOxA"
-        },
-        {
-          "titulo": "Fantastic Beasts and Where to Find Them - Teaser Trailer [HD]",
-          "url": "https://www.youtube.com/watch?v=ViuDsy7yb8M"
         }
       ]
     },
@@ -144,10 +120,6 @@
         {
           "titulo": "Assassin's Creed Shadows",
           "url": "https://www.youtube.com/watch?v=_JzywR97gUs"
-        },
-        {
-          "titulo": "Mad Max",
-          "url": "https://www.youtube.com/watch?v=oVWUbmzOGe4"
         }
       ]
     },
@@ -170,10 +142,6 @@
         {
           "titulo": "The Last Of Us - Temporada 2 | Trailer Dublado",
           "url": "https://www.youtube.com/watch?v=0vB2lHQim3Q"
-        },
-        {
-          "titulo": "Arcane: Temporada 2 | Trailer oficial",
-          "url": "https://www.youtube.com/watch?v=Ft_QrPGXWqc"
         }
       ]
     }
