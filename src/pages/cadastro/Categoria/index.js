@@ -28,6 +28,24 @@ function CadastroCategoria() {
       })
   });
 
+  const linkStyle = {
+    border: "1px solid white",
+    color: "white",
+    backgroundColor: "black",
+    boxSizing: "border-box",
+    cursor: "pointer",
+    padding: "16px 24px",
+    fontStyle: "normal",
+    fontWeight: "bold",
+    fontSize: "16px",
+    outline: "none",
+    borderRadius: "5px",
+    textDecoration: "none",
+    display: "inline-block",
+    transition: "opacity .3s",
+    marginBottom: "20px"
+  };
+
   return (
     <PageDefault>
       <h1>Cadastro de Categoria: {values.nome}</h1>
@@ -78,7 +96,10 @@ function CadastroCategoria() {
         })}
       </ul>
       
-      <Link to="/">
+      <Link 
+        to="/"
+        style={linkStyle}
+      >
         Ir para a home
       </Link>
     </PageDefault>
